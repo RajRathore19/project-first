@@ -1,2 +1,3 @@
 # project-first
-this is my first repository
+This is my first repository
+Author - Raj Rathore
